@@ -30,3 +30,16 @@ PHARMMEDI is a medical website that offers a range of healthcare solutions, incl
 ## AZURE PORTAL STATIC WEB
 ![Screenshot (44)](https://user-images.githubusercontent.com/92305304/219403283-64ac1038-5680-473f-951a-ba14f9b20598.png)
 
+
+##AZURE HEALTHBOT
+![Screenshot (47)](https://user-images.githubusercontent.com/92305304/219478218-3f2b908f-4d54-483e-86b7-18490b714d53.png)
+
+
+## AZURE QnAbot/Cognitive Language
+![Screenshot (48)](https://user-images.githubusercontent.com/92305304/219478534-c6462745-a51b-44f0-8d98-699842810eab.png)
+
+
+
+
+
+

@@ -7,24 +7,29 @@ PHARMMEDI is a medical website that offers a range of healthcare solutions, incl
 
 
 ## HOME PAGE
-![Screenshot (35)](https://user-images.githubusercontent.com/92305304/219401503-d80a4806-c732-4a36-8f85-d23a258d3164.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/92305304/219644935-58d17fac-0761-4385-bd5c-5008a9b27ed2.png)
 ![Screenshot (36)](https://user-images.githubusercontent.com/92305304/219401642-15e2521c-85ce-4686-8616-aedc347074f4.png)
 
 
 ## ABOUT
-![Screenshot (37)](https://user-images.githubusercontent.com/92305304/219402467-863ae5f4-dd9b-4d64-bbf3-3fa716d737fe.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/92305304/219645375-3f1c461e-5875-4dad-9e1f-9e70b1a13a8c.png)
 ![Screenshot (38)](https://user-images.githubusercontent.com/92305304/219401954-2e1a8924-21f7-434f-83de-c9c5a6281618.png)
 ![Screenshot (39)](https://user-images.githubusercontent.com/92305304/219401977-f9645896-10b7-404c-aa6e-b9b461208400.png)
 
 
 ## SERVICES
-![Screenshot (40)](https://user-images.githubusercontent.com/92305304/219402608-2a3e10d6-d201-4f41-8b77-c493199326d4.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/92305304/219645345-5afeb532-a88b-44ff-9688-1a2921255389.png)
 ![Screenshot (41)](https://user-images.githubusercontent.com/92305304/219402746-4b744e11-7272-4f31-a596-45eafcef811f.png)
 
 
 ## CONTACTS
-![Screenshot (42)](https://user-images.githubusercontent.com/92305304/219402767-ff1ca24a-e3df-493c-a697-aac848217ac9.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/92305304/219645317-80fb4e85-21b3-4058-b7c6-934c4ed92fcf.png)
 ![Screenshot (43)](https://user-images.githubusercontent.com/92305304/219404108-8c2cf530-c2a6-48fe-b7b8-fd0363aeaba4.png)
+
+
+## HEALTHBOT
+![Screenshot (57)](https://user-images.githubusercontent.com/92305304/219645306-d579130b-5026-4ee9-89ad-54a9dacd496f.png)
+
 
 
 ## AZURE PORTAL STATIC WEB
